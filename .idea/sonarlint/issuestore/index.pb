@@ -9,3 +9,5 @@ R
 "src/oo/composicao/CompraTeste.java,5\2\52f6a54eea4394e5275c4a2828bd75e695864ccf
 V
 &src/oo/composicao/desafio/Sistema.java,c\7\c73f1c21df142d9f913cecd1496fd9a522e2301f
+N
+src/classe/desafio/Dinner.java,3\2\328f8bddc5aa351a97d85d1beada9a8c6ff4e258
