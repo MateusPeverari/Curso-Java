@@ -1,5 +1,7 @@
 package classe.desafio;
 
+import org.jetbrains.annotations.NotNull;
+
 public class Dinner {
     public static void main(String[] args) {
         Person p1 = new Person(80.50, "Jorge");
@@ -9,19 +11,26 @@ public class Dinner {
         Exercise e1 = new Exercise(1, "Corrida");
 
         p1.comer(c1);
-        System.out.printf("%s pesava %.2fkgs, depois comeu %.2f Kgs de %s e passou a pesar %.2fkgs",
-                p1.name, p1.previousWeight, c1.weight, c1.name, p1.weight);
+        Dinner.foodFormattedOutput(p1, c1);
 
         p1.comer(c2);
-        System.out.printf("%n%s pesava %.2fkgs, depois comeu %.2f Kgs de %s e passou a pesar %.2fkgs",
-                p1.name, p1.previousWeight, c2.weight, c2.name, p1.weight);
+        Dinner.foodFormattedOutput(p1, c2);
 
         p1.comer(c3);
-        System.out.printf("%n%s pesava %.2fkgs, depois comeu %.2f Kgs de %s e passou a pesar %.2fkgs",
-                p1.name, p1.previousWeight, c3.weight, c3.name, p1.weight);
+        Dinner.foodFormattedOutput(p1, c3);
 
         p1.exercicio(e1);
-        System.out.printf("%n%s pesava %.2fkgs, depois fez %s e perdeu %.2f e passou a pesar %.2fkgs",
+        exerciseFormattedOutput(p1, e1);
+
+    }
+
+    private static void foodFormattedOutput(@NotNull Person p1, @NotNull Food c1) {
+        System.out.printf("%s pesava %.2fkgs, depois comeu %.2f Kgs de %s e passou a pesar %.2fkg%n",
+                p1.name, p1.previousWeight, c1.weight, c1.name, p1.weight);
+    }
+
+    private static void exerciseFormattedOutput(@NotNull Person p1, @NotNull Exercise e1) {
+        System.out.printf("%s pesava %.2fkgs, depois fez %s e perdeu %.2f e passou a pesar %.2fkgs%n",
                 p1.name, p1.previousWeight, e1.exerciseName, e1.weightLost, p1.weight);
     }
 }
