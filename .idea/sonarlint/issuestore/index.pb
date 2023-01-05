@@ -15,5 +15,3 @@ K
 src/oo/heranca/Direcao.java,b\f\bf0e6ab687cdd9088fe34bef308a42d3671599c4
 H
 src/oo/heranca/Jogo.java,6\5\653e628355ee60d1b2384c46698c700592e6f37b
-9
-	readme.md,2\7\275d783e298228506068436512433d343feb52aa

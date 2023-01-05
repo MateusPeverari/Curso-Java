@@ -1,5 +1,5 @@
 # Curso Java
-<img src = "http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=flat&logo" alt = "Em desenvolvimento" /> <img src = "http://img.shields.io/static/v1?label=JDK&message=17.0.5&color=blue&style=flat&logo" alt = "Em desenvolvimento" alt = "JDK 17.0.5"/>
+<img src = "http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=flat&logo" alt = "Em desenvolvimento" /> <img src = "http://img.shields.io/static/v1?label=JDK&message=17.0.5&color=blue&style=flat&logo" alt = "Em desenvolvimento" alt = "JDK 17.0.5"/>
 
 Repositório para acompanhar o meu aprendizado de Java e desenvolvimento do curso "[Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!](https://www.udemy.com/course/fundamentos-de-programacao-com-java/)".
 
