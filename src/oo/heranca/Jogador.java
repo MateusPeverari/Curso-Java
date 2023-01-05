@@ -4,16 +4,16 @@ import org.jetbrains.annotations.NotNull;
 
 public class Jogador {
 
-    int vida = 100;
-    int x;
-    int y;
+    public int vida = 100;
+    public int x;
+    public int y;
 
-    public Jogador(int x, int y) {
+    protected Jogador(int x, int y) {
         this.x = x;
         this.y = y;
     }
 
-    void andar(@NotNull Direcao direcao) {
+    public void andar(@NotNull Direcao direcao) {
         switch (direcao) {
             case NORTE:
                 y--;
