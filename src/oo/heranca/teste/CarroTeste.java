@@ -4,9 +4,9 @@ import oo.heranca.desafio.Carro;
 import oo.heranca.desafio.Civic;
 import oo.heranca.desafio.Ferrari;
 
-public class Teste {
+public class CarroTeste {
     public static void main(String[] args) {
-        Carro ferrari = new Ferrari(300);
+        Ferrari ferrari = new Ferrari(400);
         Carro civic = new Civic(197);
 
         ferrari.velocidadeAtual = 100;
@@ -17,7 +17,9 @@ public class Teste {
         civic.acelerar();
         civic.frear();
 
+        ferrari.ligarTurbo();
         ferrari.acelerar();
+        ferrari.desligarTurbo();
         ferrari.acelerar();
         ferrari.frear();
 
