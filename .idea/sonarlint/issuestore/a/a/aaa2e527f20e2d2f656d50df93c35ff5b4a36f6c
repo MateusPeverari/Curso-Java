@@ -1,0 +1,12 @@
+
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ïÃžåúÿÿÿÿ8œÝ˜»Ù0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·´Ì½ýÿÿÿÿ8žÝ˜»Ù0
+t
+java:S4276
+"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(‰îì¼8ùç¶»Ù0
+p
+java:S1602
+"SRemove useless curly braces around statement and then remove useless return keyword(‰îì¼8Ô—¶»Ù0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ºáÂ‹ÿÿÿÿÿ8 Ý˜»Ù0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·´Ì½ýÿÿÿÿ8Õ—¶»Ù0
