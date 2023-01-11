@@ -29,8 +29,6 @@ N
 src/oo/heranca/teste/Jogo.java,a\a\aa9f8d11e40ffdc96d4a3f0212b242ff562daea7
 K
 src/oo/heranca/Jogador.java,8\a\8a5b24016e3b91d666870743d3168cb1dc6548b3
-9
-	readme.md,2\7\275d783e298228506068436512433d343feb52aa
 V
 &src/oo/encapsulamento/PessoaTeste.java,a\3\a37635df37d201f223cce0946f3f9872241af9a8
 Q
