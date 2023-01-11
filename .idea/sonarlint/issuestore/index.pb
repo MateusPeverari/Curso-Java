@@ -101,3 +101,19 @@ N
 src/lambdas/CalculoTeste3.java,a\a\aaa2e527f20e2d2f656d50df93c35ff5b4a36f6c
 H
 src/lambdas/ForEach.java,1\f\1fe99bb41969c83bf50198256a7deed9badb307d
+H
+src/lambdas/Produto.java,c\5\c5f6fd4ce0a74307881b2bb63cba005278c74c9c
+K
+src/lambdas/Consumidor.java,6\a\6a94858a15f21fb18737cc8e0280424e54db4340
+G
+src/lambdas/Funcao.java,5\3\53125dc484e4f72e3ebd67ddf7eb65c487f58bb7
+K
+src/lambdas/Fornecedor.java,e\b\ebd1642556454e6bebb138476b3a17f9b71b9d16
+J
+src/lambdas/Predicado.java,2\6\2638471d6f396c7e491a2dfb9d1feb6c33e52ca6
+T
+$src/lambdas/PredicadoComposicao.java,6\9\69e1f80bff823d9803d6b6ac9027290729cfb775
+P
+ src/lambdas/OperadorBinario.java,1\6\16e8fe5d8344727307ecf078e35d4ef8fef5456e
+O
+src/lambdas/OperadorUnario.java,4\b\4b0af01eec2fe7d42ea2b031d52dd0f770b99c30
