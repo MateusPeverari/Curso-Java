@@ -115,3 +115,35 @@ P
  src/lambdas/OperadorBinario.java,1\6\16e8fe5d8344727307ecf078e35d4ef8fef5456e
 O
 src/lambdas/OperadorUnario.java,4\b\4b0af01eec2fe7d42ea2b031d52dd0f770b99c30
+H
+src/lambdas/Desafio.java,c\8\c82bb0304fc0210b63cb64fbde9c6f580bf5d5fd
+R
+"src/streams/ImprimindoObjetos.java,8\9\89a8862212f352148b427709d67571eab3c7fcb9
+O
+src/streams/CriandoStreams.java,8\1\81eed56f287f58b1a181554930b23217bb9fd44f
+9
+	readme.md,2\7\275d783e298228506068436512433d343feb52aa
+K
+src/streams/DesafioMap.java,f\7\f7ba3f2d803763fdb54b220b6a8799dbe3b9b918
+D
+src/streams/Map.java,8\3\831f50c138336fc8ce98169e2dddb4951c206750
+L
+src/streams/Utilitarios.java,6\a\6a1ac91f5ca2a7b025bfb414656e836b5507eb53
+G
+src/streams/Filter.java,a\d\ad838dc461c5acecba6061f92dafd3dd099f391e
+H
+src/streams/Product.java,f\2\f20df129f157f9dca77639da5244719013e642e7
+L
+src/streams/ProductTest.java,6\4\646e55f2feec799ab4ecc0d1fa0029c0b002d0b7
+H
+src/streams/Reduce1.java,6\d\6df7a9856c28495f5f3c86bda57f88b8b71e5445
+F
+src/streams/Media.java,6\6\661b1672262ae9de9c9d637514c5a6c6b8ec40e3
+K
+src/streams/MediaTeste.java,a\2\a2cb87981330fb9864104a6597cd758955d769b9
+H
+src/streams/Reduce2.java,c\f\cffba255006a6384d7d4748120f7132ed8ac198b
+H
+src/streams/Reduce3.java,7\4\74769474973e68fcc902da6821cbf540afe25d23
+F
+src/streams/Match.java,6\5\654e81b40b4a02b1203631893e2325a04246ee57
