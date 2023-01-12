@@ -4,11 +4,33 @@ import org.jetbrains.annotations.NotNull;
 
 public class Dinner {
     public static void main(String[] args) {
-        Person p1 = new Person(80.50, "Jorge");
-        Food c1 = new Food(0.3, "Arroz", 1);
-        Food c2 = new Food(0.150, "Feijão", 1);
-        Food c3 = new Food(0.2, "Sorvete", 0);
-        Exercise e1 = new Exercise(1, "Corrida");
+        Person p1 = new PersonBuilder()
+                .setWeight(80.50)
+                .setName("Jorge")
+                .createPerson();
+
+        Food c1 = new FoodBuilder()
+                .setWeight(0.3)
+                .setName("Arroz")
+                .setType(1)
+                .createFood();
+
+        Food c2 = new FoodBuilder()
+                .setWeight(0.150)
+                .setName("Feijão")
+                .setType(1)
+                .createFood();
+
+        Food c3 = new FoodBuilder()
+                .setWeight(0.2)
+                .setName("Sorvete")
+                .setType(0).
+                createFood();
+
+        Exercise e1 = new ExerciseBuilder()
+                .setWeightLost(1)
+                .setExerciseName("Corrida")
+                .createExercise();
 
         p1.comer(c1);
         Dinner.foodFormattedOutput(p1, c1);
