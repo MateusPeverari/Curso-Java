@@ -1,7 +1,5 @@
 package classe.desafio;
 
-import org.jetbrains.annotations.NotNull;
-
 public class Dinner {
     public static void main(String[] args) {
         Person p1 = new PersonBuilder()
@@ -46,12 +44,12 @@ public class Dinner {
 
     }
 
-    private static void foodFormattedOutput(@NotNull Person p1, @NotNull Food c1) {
+    private static void foodFormattedOutput(Person p1,Food c1) {
         System.out.printf("%s pesava %.2fkgs, depois comeu %.2f Kgs de %s e passou a pesar %.2fkg%n",
                 p1.name, p1.previousWeight, c1.weight, c1.name, p1.weight);
     }
 
-    private static void exerciseFormattedOutput(@NotNull Person p1, @NotNull Exercise e1) {
+    private static void exerciseFormattedOutput( Person p1, Exercise e1) {
         System.out.printf("%s pesava %.2fkgs, depois fez %s e perdeu %.2f e passou a pesar %.2fkgs%n",
                 p1.name, p1.previousWeight, e1.exerciseName, e1.weightLost, p1.weight);
     }

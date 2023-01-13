@@ -1,7 +1,5 @@
 package oo.heranca;
 
-import org.jetbrains.annotations.NotNull;
-
 public class Jogador {
 
     public int vida = 100;
@@ -13,7 +11,7 @@ public class Jogador {
         this.y = y;
     }
 
-    public void andar(@NotNull Direcao direcao) {
+    public void andar(Direcao direcao) {
         switch (direcao) {
             case NORTE:
                 y--;
@@ -30,7 +28,7 @@ public class Jogador {
         }
     }
 
-    public boolean atacar(@NotNull Jogador oponente) {
+    public boolean atacar(Jogador oponente) {
         int deltaX = Math.abs(this.x - oponente.x);
         int deltaY = Math.abs(this.y - oponente.y);
 

@@ -1,7 +1,5 @@
 package classe.desafio;
 
-import org.jetbrains.annotations.NotNull;
-
 public class Person {
     double weight;
     double previousWeight;
@@ -13,7 +11,7 @@ public class Person {
         this.name = name;
     }
 
-    void comer(@NotNull Food c) {
+    void comer(Food c) {
         if (c.type == 0) {
             previousWeight = this.weight;
             this.weight += c.weight;
@@ -24,7 +22,7 @@ public class Person {
 
     }
 
-    void exercicio(@NotNull Exercise e) {
+    void exercicio(Exercise e) {
         previousWeight = this.weight;
         this.weight -= e.weightLost;
     }
