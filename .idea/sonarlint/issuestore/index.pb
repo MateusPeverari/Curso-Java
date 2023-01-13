@@ -21,12 +21,6 @@ V
 &src/oo/encapsulamento/casaA/Paulo.java,2\d\2d5fd15f639837d60de5162b3088fb47cdde9aad
 K
 src/oo/heranca/Monstro.java,e\8\e8de7bfa997109035e576e63da0d54e267e3d0eb
-I
-src/oo/heranca/Heroi.java,6\f\6ff669ed80c95b23a67a73219671ac450e3f9960
-N
-src/oo/heranca/teste/Jogo.java,a\a\aa9f8d11e40ffdc96d4a3f0212b242ff562daea7
-K
-src/oo/heranca/Jogador.java,8\a\8a5b24016e3b91d666870743d3168cb1dc6548b3
 V
 &src/oo/encapsulamento/PessoaTeste.java,a\3\a37635df37d201f223cce0946f3f9872241af9a8
 Q
@@ -91,8 +85,6 @@ G
 src/arrays/ForEach.java,f\e\fe8c98cfb956fc7f4fa0218f27ca3548b4c13e3e
 J
 src/arrays/Exercicios.java,a\1\a1168ecba938240183feb72cc67fd4bae58912f5
-G
-src/arrays/desafio.java,1\a\1ac7cd4d2d20e3e047c908c28f895b727fd427f5
 N
 src/lambdas/CalculoTeste3.java,a\a\aaa2e527f20e2d2f656d50df93c35ff5b4a36f6c
 H
@@ -119,8 +111,6 @@ R
 "src/streams/ImprimindoObjetos.java,8\9\89a8862212f352148b427709d67571eab3c7fcb9
 O
 src/streams/CriandoStreams.java,8\1\81eed56f287f58b1a181554930b23217bb9fd44f
-9
-	readme.md,2\7\275d783e298228506068436512433d343feb52aa
 K
 src/streams/DesafioMap.java,f\7\f7ba3f2d803763fdb54b220b6a8799dbe3b9b918
 D
@@ -145,3 +135,17 @@ H
 src/streams/Reduce3.java,7\4\74769474973e68fcc902da6821cbf540afe25d23
 F
 src/streams/Match.java,6\5\654e81b40b4a02b1203631893e2325a04246ee57
+9
+	readme.md,2\7\275d783e298228506068436512433d343feb52aa
+N
+src/classe/desafio/Person.java,0\1\016d9418fbe6063c3be07a1e7a6e4ceb9b4e1d8c
+I
+src/oo/heranca/Heroi.java,6\f\6ff669ed80c95b23a67a73219671ac450e3f9960
+N
+src/oo/heranca/teste/Jogo.java,a\a\aa9f8d11e40ffdc96d4a3f0212b242ff562daea7
+K
+src/oo/heranca/Jogador.java,8\a\8a5b24016e3b91d666870743d3168cb1dc6548b3
+N
+src/classe/desafio/Dinner.java,3\2\328f8bddc5aa351a97d85d1beada9a8c6ff4e258
+G
+src/arrays/desafio.java,1\a\1ac7cd4d2d20e3e047c908c28f895b727fd427f5
