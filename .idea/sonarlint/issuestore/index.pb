@@ -145,7 +145,5 @@ N
 src/oo/heranca/teste/Jogo.java,a\a\aa9f8d11e40ffdc96d4a3f0212b242ff562daea7
 K
 src/oo/heranca/Jogador.java,8\a\8a5b24016e3b91d666870743d3168cb1dc6548b3
-N
-src/classe/desafio/Dinner.java,3\2\328f8bddc5aa351a97d85d1beada9a8c6ff4e258
 G
 src/arrays/desafio.java,1\a\1ac7cd4d2d20e3e047c908c28f895b727fd427f5
