@@ -147,3 +147,35 @@ K
 src/oo/heranca/Jogador.java,8\a\8a5b24016e3b91d666870743d3168cb1dc6548b3
 G
 src/arrays/desafio.java,1\a\1ac7cd4d2d20e3e047c908c28f895b727fd427f5
+P
+ src/classe/desafio/Exercise.java,b\4\b4ee27da8be264071a4507694b859ec8cc340cc0
+W
+'src/classe/desafio/ExerciseBuilder.java,6\b\6b08cce4699671739254c6d73d731c8808915545
+N
+src/classe/desafio/Dinner.java,3\2\328f8bddc5aa351a97d85d1beada9a8c6ff4e258
+M
+src/generics/CaixaObjeto.java,6\d\6db7ea24e017e1bd69a615b47b7369222a3bde47
+R
+"src/generics/CaixaObjetoTeste.java,a\8\a89a0294f9023b38d6bc938d22d978b7987c0ef9
+G
+src/generics/Caixa.java,5\8\58055d137b0e22c054f772ccfe31beed578c815b
+L
+src/generics/CaixaTeste.java,d\4\d42fb14326ce168d800587a2179e5a2eedeb4744
+J
+src/generics/CaixaInt.java,0\1\017595b62d12ec543ad141a6098d8bc9befa3833
+O
+src/generics/CaixaIntTeste.java,c\9\c982d318f126061013b3bdc9fb2b4dbe8672ff14
+M
+src/generics/CaixaNumero.java,5\d\5d045f5841e3c008d2ae4bbb4a0622ab00d90280
+R
+"src/generics/CaixaNumeroTeste.java,8\f\8fc6c5896b9c616351b01fa50ea35e31e515a412
+K
+src/generics/ListaUtil.java,d\f\df0d563ebe66a1e63b6b5febebdb73fb2c8888aa
+P
+ src/generics/ListaUtilTeste.java,1\d\1dc7bb0bd5da465011cebb17b503ab791d65972a
+G
+src/generics/Pares.java,6\c\6c45684b8a4910fe872a27ba07a3cd9a8d901234
+L
+src/generics/ParesTeste.java,1\c\1cf6b13d17371ed1921cc36ec1164ab2d99a9a4f
+E
+src/generics/Par.java,b\7\b78969e9f452f0f0f7a1c579ef6c8244c3f439a5
